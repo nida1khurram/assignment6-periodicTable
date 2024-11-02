@@ -1,7 +1,7 @@
 
 h1{
     text-align: center;
-    font-size: 40px;
+    font-size: 48px;
 }
 table{
     width:80%;
@@ -60,3 +60,20 @@ td{
 .peach{
     background: #fa8072;
 }
+/* Responsive Styles */ @media (max-width: 1200px) { 
+    h1 { font-size: 32px; 
+    }
+     table, .table2 { 
+        width: 90%;
+     } 
+     .table2 { 
+        margin-left: 5%; 
+    } }
+     @media (max-width: 768px) {
+         h1 { font-size: 28px; }
+          table, .table2 { width: 100%; margin-left: 0; } 
+          td { font-size: 14px; padding: 4px; } }
+           @media (max-width: 480px) {
+             h1 { font-size: 24px; }
+              td { font-size: 12px; padding: 3px; }
+               #txt { font-size: 8px; } }
