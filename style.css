@@ -1,0 +1,62 @@
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+table{
+    width:80%;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+   
+}
+.table2{
+   width: 70%;
+   margin-left: 135px;
+    
+}
+
+td{
+    border: 2px solid black; 
+    border-radius: 3px;
+    text-align: center;
+    padding: 5px;
+}
+#txt{
+    font-size: 10px;
+}
+
+.rs{
+    width: 10px;
+}
+
+#c1{
+    background: #ff7f50;
+}
+.purple{
+    background:#d26aca;
+}
+.blue{
+    background: #6557bf;
+}
+.yellow{
+    background: #ffd700;
+}
+.lpink{
+    background:#ffb6c1;
+}
+.green{
+    background: #143e28;
+}
+.brown{
+    background: 
+    #a0522d;
+}
+.skin{
+    background:#c9911b;
+     
+}
+.peach{
+    background: #fa8072;
+}
